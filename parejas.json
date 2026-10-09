@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Mascapitos",
+        "jugadores": [
+            {
+                "nombre": "Juan",
+                "categoria": "1"
+            },
+            {
+                "nombre": "Reguera",
+                "categoria": "1"
+            }
+        ]
+    },
+    {
+        "nombre": "Cracks",
+        "jugadores": [
+            {
+                "nombre": "Koko",
+                "categoria": "1"
+            },
+            {
+                "nombre": "Felipe",
+                "categoria": "1"
+            }
+        ]
+    }
+]
