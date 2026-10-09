@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": 101,
+        "nombre": "Café con leche",
+        "precio": 1500
+    },
+    {
+        "codigo": 102,
+        "nombre": "Medialuna",
+        "precio": 700
+    },
+    {
+        "codigo": 103,
+        "nombre": "Sándwich de miga",
+        "precio": 1800
+    },
+    {
+        "codigo": 104,
+        "nombre": "Agua mineral 500 ml",
+        "precio": 1000
+    },
+    {
+        "codigo": 105,
+        "nombre": "Empanada",
+        "precio": 1200
+    },
+    {
+        "codigo": 106,
+        "nombre": "Chipá (100 g)",
+        "precio": 1300
+    }
+]

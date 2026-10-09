@@ -1,0 +1,41 @@
+{
+    "recaudacion_por_dia": {
+        "1": 21000,
+        "2": 16800,
+        "3": 20000,
+        "4": 9800,
+        "5": 31200
+    },
+    "registro_ventas": [
+        {
+            "dia": 1,
+            "codigo": 101,
+            "cantidad": 14,
+            "monto_total": 21000
+        },
+        {
+            "dia": 3,
+            "codigo": 104,
+            "cantidad": 20,
+            "monto_total": 20000
+        },
+        {
+            "dia": 2,
+            "codigo": 105,
+            "cantidad": 14,
+            "monto_total": 16800
+        },
+        {
+            "dia": 4,
+            "codigo": 102,
+            "cantidad": 14,
+            "monto_total": 9800
+        },
+        {
+            "dia": 5,
+            "codigo": 106,
+            "cantidad": 24,
+            "monto_total": 31200
+        }
+    ]
+}
